@@ -1,3 +1,4 @@
+# so i commited the code using git -> learning git using this.
 import segno
 from urllib.request import urlopen
 import os  # Import the os module to handle file paths
